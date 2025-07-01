@@ -58,3 +58,17 @@ https://tiger-hub.vercel.app/SkySports-1_NZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sky_Sport_NZ_logo.png",SkySports 2 New Zealand
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sportv  
+https://tiger-hub.vercel.app/Sportv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sport.tv 1  
+https://tiger-hub.vercel.app/Sport.tv-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sport.tv 2  
+https://tiger-hub.vercel.app/Sport.tv-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sport.tv 3  
+https://tiger-hub.vercel.app/Sport.tv-3/tracks-v1a1/mono.m3u8
