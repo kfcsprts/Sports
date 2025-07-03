@@ -28,34 +28,34 @@ https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMQDzUb-2ki2TcMxLb-8aZazPUvHBaU23fYfVbELwmhiJ083hGYDU9csj&s=10",StarSports 1 Hindi
 https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Star_Sports_Select_1.png",StarSports Select 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMQDzUb-2ki2TcMxLb-8aZazPUvHBaU23fYfVbELwmhiJ083hGYDU9csj&s=10",StarSports Select 1
 https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Dazn_logo.svg",LaLiga TV (DAZN)
 https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/LaLiga_TV_logo.png",LaLiga TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB8ubfPC7K9o4AZGmS-FfYTD91KJRAzOHQagVZKyNpRMXBvITay3mdY3Kznd3kz0z820&usqp=CAU",LaLiga TV
 https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sky_Sports_Football_2020.png",SkySports Football
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNFB_RQmz5OZQekjy0_SNGMq-VFe2vJPihA&s",SkySports Football
 https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sky_Sports_Premier_League.png",SkySports Premier League
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",SkySports Premier League
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Sky_Sports_Mix.png",SkySports Mix
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-mix-logo-png_seeklogo-456295.png",SkySports Mix
 https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/PTV_Sports.png",PTV Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bfdnSVmQG4JgEwpJ1z5pNNUwko-ASMSHh_SDuPArMA&s",PTV Sports
 https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Premier_Sports_1_logo.png",Premier Sports 1
 https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Premier_Sports_1_logo.png",Premier Sports 2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2021/12/Premier-Sports-square.jpg",Premier Sports 2
 https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnofDrZvBfFJKehHE8_SZNl_J6GYPrS0Vt5Q&s",ESPN
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sky_Sport_NZ_logo.png",SkySports 1 New Zealand
@@ -66,14 +66,14 @@ https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sportv  
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",Sportv  
 https://tiger-hub.vercel.app/Sportv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sport.tv 1  
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",Sport.tv 1  
 https://tiger-hub.vercel.app/Sport.tv-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sport.tv 2  
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",Sport.tv 2  
 https://tiger-hub.vercel.app/Sport.tv-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/SporTV_logo_2021.png",Sport.tv 3  
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",Sport.tv 3  
 https://tiger-hub.vercel.app/Sport.tv-3/tracks-v1a1/mono.m3u8
