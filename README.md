@@ -2,25 +2,30 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Willow_HD.png",WillowHD
+#EXTINF:-1 tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png",WillowHD
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Willow_HD.png",WillowHD Extra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisRwnhJtn-MT3qKA9Wyt2AORrwEh2oc9Plg&s",WillowHD Extra
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Astro_Cricket.png",Astro Cricket
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 https://tiger-hub.vercel.app/Astro-Cricket/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Sky_Sports_Cricket_2020.png",SkySports Cricket
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jWsd8HPZc_GzXPZNR1FVSjgf1STCGd13ujjI4dCorfPDTADTFUklNDQT9uSWbxn7N-w&usqp=CAU",SkySports Cricket
 https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/SuperSport_logo.png",SuperSports Cricket
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgalrcLLWDK7dLaRQXlTgcA0KLYsaJl_V3y3n1vyOGdmerCI6T5drxzR4GKo3OCanWLNDHnB0kdYm78nuCEndp7qmfp3spLaKQUOt9gRAwHyAtEKOVjbv8sOVGn_bWy7uqsuOCmNizMM9yX3Kynouplza6CveioPS4ZUKwsnlj3CJ9SxXb0D-uo4YL87Hqv/s800/srtijz1643382350.png",SuperSports Cricket
 https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Star_Sports_1.png",StarSports 1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJ-reTEesCMXSx7vOYgBEy_qSGdUa51dssw&s",tyc Sports
+https://tiger-hub.vercel.app/TYC_Sports-Argentina/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMQDzUb-2ki2TcMxLb-8aZazPUvHBaU23fYfVbELwmhiJ083hGYDU9csj&s=10",StarSports 1
 https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Star_Sports_1.png",StarSports 1 Hindi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMQDzUb-2ki2TcMxLb-8aZazPUvHBaU23fYfVbELwmhiJ083hGYDU9csj&s=10",StarSports 1 Hindi
 https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Star_Sports_Select_1.png",StarSports Select 1
